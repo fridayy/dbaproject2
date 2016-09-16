@@ -1,0 +1,9 @@
+Documentation
+Consider using a Factory for Person and extending Classes!
+Refactor for better encapsulation.
+Maybe scrap the DAO pattern or use only one DAO interface using generic (GenericDAO) for the sake of simplicity. (Type safety?)
+Create entity tests (business logic).
+Create DAO tests which actually use the database.
+Refactor all Tests/Classes
+Achieve higher test coverage
+
